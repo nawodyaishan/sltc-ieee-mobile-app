@@ -1,1 +1,0 @@
-# sltc-ieee-mobile-app
